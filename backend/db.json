@@ -29,6 +29,26 @@
       "name": "Produto de teste",
       "price": 125.98,
       "id": 6
+    },
+    {
+      "name": "Novo produto de teste do formulário",
+      "price": "9.99",
+      "id": 7
+    },
+    {
+      "name": "Notebook",
+      "price": "100.00",
+      "id": 8
+    },
+    {
+      "name": "Novo Produto",
+      "price": "1.999",
+      "id": 9
+    },
+    {
+      "name": "Opa, tudo bem?",
+      "price": "9999",
+      "id": 10
     }
   ],
   "categories": [
